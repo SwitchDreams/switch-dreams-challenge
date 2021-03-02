@@ -13,10 +13,6 @@ Esperamos que você tenha uma boa noção nos seguintes tópicos:
 
 Além disso é sempre interessante estar atento aos padrões usuais de qualidade de código.
 
-Esse desaio 
-
----
-
 ## Problema
 
 A biblioteca da Universidade BnU está digitalizando seus livros e contratou você (isso mesmo, você!) para desenvolver o sistema que organizará o acervo. Cada livro terá título, autor, ano de publicação, foto de capa, etc. Seu conteúdo será um pdf, que deverá ser aberto no browser do cliente, para que o aluno possa desfrutar do material sem realizar downloads.
