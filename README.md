@@ -29,10 +29,8 @@ Dessa forma, cada tag poderá estar em diversos livros e cada livro poderá ter 
 
 - "1 semestre" e "2 semestre", para a categoria **semestre**
 - "Cálculo", para a categoria **disciplina**
-  
-Essas tags serão utilizadas em um filtro na página de listagem dos livros. Para o exemplo acima, o livro de Cálculo 1 deve ser retornado caso qualquer uma das tags esteja presente na seleção, ou seja, se ao menos uma tag do livro estiver presente na seleção, este deverá ser retornado.
 
-A página principal deve conter a listagem dos livros com os filtros em cima, tendo possibilidade de filtrar pelas tags ou pelo nome.
+A página principal deve conter todos os livros e, ao clicar em um livro, todas as suas informações devem ser mostradas.
 
 ## Requisitos
 
